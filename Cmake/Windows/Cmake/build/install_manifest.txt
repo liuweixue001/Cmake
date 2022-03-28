@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/C++/Cmake/build/install/share/doc/cmake/COPYRIGHT
+C:/Users/Administrator/Desktop/C++/Cmake/build/install/share/doc/cmake/README
+C:/Users/Administrator/Desktop/C++/Cmake/build/install/bin/runtest.bat
+C:/Users/Administrator/Desktop/C++/Cmake/build/install/share/doc/cmake/test.txt

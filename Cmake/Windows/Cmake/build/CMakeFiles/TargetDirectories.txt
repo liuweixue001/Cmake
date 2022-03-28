@@ -1,0 +1,13 @@
+C:/Users/Administrator/Desktop/C++/Cmake/build/CMakeFiles/install/local.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/CMakeFiles/install.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/CMakeFiles/list_install_components.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/CMakeFiles/install/strip.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/Hello.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/install/local.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/install.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/list_install_components.dir
+C:/Users/Administrator/Desktop/C++/Cmake/build/bin/CMakeFiles/install/strip.dir

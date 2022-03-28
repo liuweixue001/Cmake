@@ -1,0 +1,8 @@
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/include/hello/Hello.h
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/lib/libhello.dll.a
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/bin/libhello.dll
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/lib/libhello.a
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/share/doc/cmake/COPYRIGHT
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/share/doc/cmake/README
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/bin/runtest.bat
+C:/Users/Administrator/Desktop/C++/Cmake_Lib/build/install/share/doc/cmake/Hello.txt

@@ -1,0 +1,14 @@
+/home/liu/code/Cmake/Cmake_Lib/build/CMakeFiles/install/strip.dir
+/home/liu/code/Cmake/Cmake_Lib/build/CMakeFiles/install.dir
+/home/liu/code/Cmake/Cmake_Lib/build/CMakeFiles/install/local.dir
+/home/liu/code/Cmake/Cmake_Lib/build/CMakeFiles/list_install_components.dir
+/home/liu/code/Cmake/Cmake_Lib/build/CMakeFiles/edit_cache.dir
+/home/liu/code/Cmake/Cmake_Lib/build/CMakeFiles/rebuild_cache.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/install/strip.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/install/local.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/hello_static.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/hello.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/edit_cache.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/rebuild_cache.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/list_install_components.dir
+/home/liu/code/Cmake/Cmake_Lib/build/bin/CMakeFiles/install.dir

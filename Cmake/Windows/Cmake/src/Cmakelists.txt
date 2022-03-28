@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.1)
+project(Hello)
+set(src_dir test.cpp) # 显示的指定变量
+message(${src_dir})
+message("cmake_module_path: " ${CMAKE_MODULE_PATH})
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/executable) 
+SET(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
+INCLUDE_DIRECTORIES(C:\\Users\\Administrator\\Desktop\\C++\\Cmake_Lib\\build\\install\\include\\hello)
+link_directories(C:\\Users\\Administrator\\Desktop\\C++\\Cmake_Lib\\build\\install\\lib)
+find_package(OpenCV REQUIRED)
+add_executable(Hello ${src_dir}) # 添加可执行文件
+target_link_libraries(Hello hello ${OpenCV_LIBS})

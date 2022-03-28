@@ -1,0 +1,90 @@
+.
+├── build
+│   ├── bin
+│   │   ├── CMakeFiles
+│   │   │   ├── CMakeDirectoryInformation.cmake
+│   │   │   ├── hello.dir
+│   │   │   │   ├── build.make
+│   │   │   │   ├── cmake_clean.cmake
+│   │   │   │   ├── CXX.includecache
+│   │   │   │   ├── DependInfo.cmake
+│   │   │   │   ├── depend.internal
+│   │   │   │   ├── depend.make
+│   │   │   │   ├── flags.make
+│   │   │   │   ├── Hello.cpp.o
+│   │   │   │   ├── link.txt
+│   │   │   │   └── progress.make
+│   │   │   ├── hello_static.dir
+│   │   │   │   ├── build.make
+│   │   │   │   ├── cmake_clean.cmake
+│   │   │   │   ├── cmake_clean_target.cmake
+│   │   │   │   ├── CXX.includecache
+│   │   │   │   ├── DependInfo.cmake
+│   │   │   │   ├── depend.internal
+│   │   │   │   ├── depend.make
+│   │   │   │   ├── flags.make
+│   │   │   │   ├── Hello.cpp.o
+│   │   │   │   ├── link.txt
+│   │   │   │   └── progress.make
+│   │   │   └── progress.marks
+│   │   ├── cmake_install.cmake
+│   │   ├── libhello.a
+│   │   ├── libhello.so -> libhello.so.1.2
+│   │   ├── libhello.so.1.2
+│   │   └── Makefile
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.10.2
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── a.out
+│   │   │   │   ├── CMakeCCompilerId.c
+│   │   │   │   └── tmp
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │       └── tmp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── feature_tests.bin
+│   │   ├── feature_tests.c
+│   │   ├── feature_tests.cxx
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── install
+│   │   ├── bin
+│   │   │   ├── libhello.so -> libhello.so.1.2
+│   │   │   ├── libhello.so.1.2
+│   │   │   └── runtest.sh
+│   │   ├── include
+│   │   │   └── hello
+│   │   │       └── Hello.h
+│   │   ├── lib
+│   │   │   └── libhello.a
+│   │   └── share
+│   │       └── doc
+│   │           └── cmake
+│   │               ├── COPYRIGHT
+│   │               ├── Hello.txt
+│   │               └── README
+│   ├── install_manifest.txt
+│   └── Makefile
+├── CMakeLists.txt
+├── COPYRIGHT
+├── doc
+│   └── Hello.txt
+├── lib
+│   ├── CMakeLists.txt
+│   ├── Hello.cpp
+│   └── Hello.h
+├── README
+└── runtest.sh

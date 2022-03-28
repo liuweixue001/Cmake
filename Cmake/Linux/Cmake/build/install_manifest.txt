@@ -1,0 +1,4 @@
+/home/liu/code/Cmake/Cmake/build/install/share/doc/cmake/COPYRIGHT
+/home/liu/code/Cmake/Cmake/build/install/share/doc/cmake/README
+/home/liu/code/Cmake/Cmake/build/install/bin/runtest.sh
+/home/liu/code/Cmake/Cmake/build/install/share/doc/cmake/test.txt

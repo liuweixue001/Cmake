@@ -1,0 +1,8 @@
+/home/liu/code/Cmake/Cmake_Lib/build/install/share/doc/cmake/COPYRIGHT
+/home/liu/code/Cmake/Cmake_Lib/build/install/share/doc/cmake/README
+/home/liu/code/Cmake/Cmake_Lib/build/install/bin/runtest.sh
+/home/liu/code/Cmake/Cmake_Lib/build/install/share/doc/cmake/Hello.txt
+/home/liu/code/Cmake/Cmake_Lib/build/install/include/hello/Hello.h
+/home/liu/code/Cmake/Cmake_Lib/build/install/bin/libhello.so.1.2
+/home/liu/code/Cmake/Cmake_Lib/build/install/bin/libhello.so
+/home/liu/code/Cmake/Cmake_Lib/build/install/lib/libhello.a
